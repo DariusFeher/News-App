@@ -1,0 +1,4 @@
+#Sun May 31 11:21:53 EEST 2020
+base.0=/Users/dariusmarianfeher/AndroidStudioProjects/NewsApp/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FFA000</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="background">#FFFDE7</color>
+
+    <!-- Text color for the details of the news in the list item -->
+    <color name="textColorArticleDetails">#B4BAC0</color>
+    <color name="list_item_fill">#FFECB3</color>
+    <color name="list_item_border">#FFC107</color>
+</resources>
